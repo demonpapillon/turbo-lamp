@@ -4,6 +4,7 @@ Repository title completely unrelated because Github suggested it. Thank you, Gi
 
 ## Data Cleaning, First Foray
 Example data cleaning problems from beginner course *Data Cleaning with pandas and Numpy* by Ian Currie.
+
 **Skills learned from the course:**
 * reading data from .txt and .csv files and make basic alterations
 * dropping unnecessary columns/rows from a DataFrame
