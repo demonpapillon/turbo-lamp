@@ -12,6 +12,7 @@ Example data cleaning problems from beginner course *Data Cleaning with pandas a
 * using basic .str() methods to clean columns
 * renaming columns
 * skipping unnecessary rows in .csv file
+
 **Skills learned by scouring the swamps of Stack Exchange and official pandas documentation, often preempting the tutorial:**
 * fetching, decoding and reading data from a url
 * splitting and slicing and stripping strings
